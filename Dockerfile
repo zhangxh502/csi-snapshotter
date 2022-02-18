@@ -1,1 +1,1 @@
-From quay.io/k8scsi/csi-snapshotter:v2.1.1
+From k8s.gcr.io/sig-storage/csi-snapshotter:v3.0.2
